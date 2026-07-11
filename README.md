@@ -1,4 +1,4 @@
-# orquestra-evidence
+# evidencias
 
 Disposable, **public** hosting for review evidence (screenshots) produced by the
 [orquestra](https://github.com/jvmartins/orquestra) agent runs. Images pushed
