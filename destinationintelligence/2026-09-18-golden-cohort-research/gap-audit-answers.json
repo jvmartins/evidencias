@@ -1,0 +1,1122 @@
+[
+  {
+    "q": "Q1",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "No clear information found about outdoor seating (terrace, patio or pavement) or whether any outdoor area is covered/heated.",
+    "source": ""
+  },
+  {
+    "q": "Q2",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Clómada offers a tasting menu; the restaurant website and listings state a tasting menu priced at €98 per person (optional wine pairing ~€70); some listings/reviews describe a 9-course tasting option.",
+    "source": "https://www.clomadarestaurante.com/info · https://www.thefork.com/restaurant/clomada-restaurante-malaga-centro-r845892 · https://www.tripadvisor.com/Restaurant_Review-g187438-d33004796-Reviews-Clomada_Restaurante_Malaga_Centro-Malaga_Costa_del_Sol_Province_of_Malaga_Andal.html"
+  },
+  {
+    "q": "Q3",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Menu items mentioned in press/menus as notable: 'Lubina crujiente' (sea bass in several texts), various preparations of quisquilla (small prawn/shrimp) noted in press, and desserts like 'Almendrado ma",
+    "source": "https://elpais.com/gastronomia/2026-04-11/del-hinojo-hasta-los-andares-la-versatil-hortaliza-que-se-recoge-al-pie-del-camino.html · https://elpais.com/gastronomia/2025-12-05/de-roland-garros-a-malaga-claudine-paulson-pasa-de-la-raqueta-a-la-cocina-en-clomada.html · https://www.clomadarestaurante.com/_files/ugd/832893_496106fda003402f9a65b48d4e89a8a4.pdf"
+  },
+  {
+    "q": "Q4",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "TheFork listing and the restaurant site indicate vegetarian options are available; I found no explicit statement about vegan, gluten‑free or a dedicated allergen menu for Clómada.",
+    "source": "https://www.thefork.com/restaurant/clomada-restaurante-malaga-centro-r845892 · https://www.clomadarestaurante.com/info"
+  },
+  {
+    "q": "Q5",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "No information located about suitability for young children, availability of high chairs (tronas) or a kids’ menu for Clómada.",
+    "source": ""
+  },
+  {
+    "q": "Q6",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The restaurant publishes contact details and offers online booking (phone, email and TheFork booking widget); this indicates reservations are used and recommended. I could not find explicit policy on ",
+    "source": "https://www.clomadarestaurante.com/info · https://www.thefork.com/restaurant/clomada-restaurante-malaga-centro-r845892"
+  },
+  {
+    "q": "Q7",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Typical dinner cost is the tasting menu at €98 per person (menu price listed on the official site and reservation platforms).",
+    "source": "https://www.clomadarestaurante.com/info · https://www.thefork.com/restaurant/clomada-restaurante-malaga-centro-r845892"
+  },
+  {
+    "q": "Q8",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "I could not find any information stating whether the entrance is step‑free/wheelchair accessible or whether there is an accessible toilet.",
+    "source": ""
+  },
+  {
+    "q": "Q9",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Reviews and press describe Clómada as an intimate, well‑regarded fine‑dining spot with a 'foodie' reputation; listings/reviews praise the tasting menu and atmosphere, suggesting it attracts gastronomi",
+    "source": "https://www.thefork.com/restaurant/clomada-restaurante-malaga-centro-r845892 · https://www.tripadvisor.com/Restaurant_Review-g187438-d33004796-Reviews-Clomada_Restaurante_Malaga_Centro-Malaga_Costa_del_Sol_Province_of_Malaga_Andal.html · https://elpais.com/gastronomia/2025-12-05/de-roland-garros-a-malaga-claudine-paulson-pasa-de-la-raqueta-a-la-cocina-en-clomada.html"
+  },
+  {
+    "q": "Q10",
+    "venue": "Clómada",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "No specific information found about on‑site parking or designated parking type; no details located about nearby parking options on the restaurant pages or major listings.",
+    "source": ""
+  },
+  {
+    "q": "Q1",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Clómada does not have outdoor seating. The restaurant is an intimate indoor-only venue consisting of eight tables and a bar with views of the street.",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsOkWS5jVTVnbr5RKCOuHQ3Etn8DxqzmNb9XxjgmobNghRq-zU3stFH-rfihCGwVRiL4weFgeVEN3fPAqoUxUfz7LEwjS8mY8vwxYM3mh8ZnBs5NcXPp5pR_QM_rGqALhqkJ3AWYqv"
+  },
+  {
+    "q": "Q2",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, there is a 9-course tasting menu priced at €98 per person, with an optional wine pairing for €70. No set lunch menu is mentioned.",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5uFrx8hsteRneVpG2Ne387j98Le2T3sMA13LLv4MyOax3V4dP9zGYc6g5ZshOPKqwaPEjqUqLrGnpfB-WQYP7c2j5yz8hW2qXFNwNh1SPmr44H2stYfAetzQrpA=="
+  },
+  {
+    "q": "Q3",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Its signature dishes include the fish ceviche (Ceviche de pescado), the crispy sea bass (Lubina crujiente), and the choclo bonbons (Bombones de choclo).",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Enf7Whd2uPIyVDOEIAsHAmbwdjBdgY8sC531a7c_ttAGhc8YANUds1q28saOeFyleIJ1IIPD0OziemZl8on056Ji1jPT9nATrB7XsXOgXeGBkhCZQprvfCGD7BPb7TEzPubUxolKJxsRcfUugmxF5yscrwAe"
+  },
+  {
+    "q": "Q4",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "hedged",
+    "answer": "The restaurant offers vegetarian options on its menu, such as green beans with ajoblanco or the locro bombón. No specific details were found regarding vegan options, gluten-free options, or a dedicate",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv0Ki8cuqJFAc-HlL347JnDYpCQkcVxq6sW6xmmBClWN-suSCKyXW4ZuN0Uvs71iD6qgy1KcZG5qw2DDWSiVfI7RwENL1uSWwlDho8qa6q-hTxS3Zu2EtpmKicUs4_KJ9AZJT2jSz4GfRHDy3uSzcMtQxJ8NmX8BRg0CHBVkFaF7pYhdf7mtSaA=="
+  },
+  {
+    "q": "Q5",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "unknown",
+    "answer": "No information is available regarding whether the venue is suitable for young children, or if they offer high chairs or a kids' menu.",
+    "source": ""
+  },
+  {
+    "q": "Q6",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "hedged",
+    "answer": "Reservas are highly recommended and can be booked online through TheFork or by contacting the restaurant directly via phone or email. Walk-ins are likely limited due to the small, intimate setting of ",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxtEawNCoph-pcLhHZd2HntpQc1vjWbrD9tdbCwLioEeAzpFKlj8dtafIuiK-bb9IJpe0Ybvk74ODE7OPQaV5QkgINhIN92w2Wv3tbr-jgHZG9o4Z5jJQHkcU9JQS_BXjT1B_pFHY0avMC8wrU2sTSy-q7VZ3LAD1_FDeitFMMfLIkQ=="
+  },
+  {
+    "q": "Q7",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The average cost for dinner is around €50 to €55 per person for à la carte dining (excluding drinks), while the 9-course tasting menu is priced at €98 per person.",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsOkWS5jVTVnbr5RKCOuHQ3Etn8DxqzmNb9XxjgmobNghRq-zU3stFH-rfihCGwVRiL4weFgeVEN3fPAqoUxUfz7LEwjS8mY8vwxYM3mh8ZnBs5NcXPp5pR_QM_rGqALhqkJ3AWYqv"
+  },
+  {
+    "q": "Q8",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "hedged",
+    "answer": "The restaurant provides step-free wheelchair access and is accessible for individuals with reduced mobility, but there is no specific information confirming an accessible toilet.",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvWM7U8Augqqm9Nmh58cFW6rX1qj2KxNRUTRFrLAdw2yAyrml_Yr_ThKC4tcVYaHEiWxIY8464ZTpG9xAist0vACNVAzfCXRxTufs5t0o4il4yB074TocxNHxDue-oQChq_MnnrRxIltREVPcabxSkugPG3v0B"
+  },
+  {
+    "q": "Q9",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The atmosphere is intimate, quiet, and sophisticated, with design-forward decor. It is popular with both locals and travelers seeking a refined fusion dining experience.",
+    "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsOkWS5jVTVnbr5RKCOuHQ3Etn8DxqzmNb9XxjgmobNghRq-zU3stFH-rfihCGwVRiL4weFgeVEN3fPAqoUxUfz7LEwjS8mY8vwxYM3mh8ZnBs5NcXPp5pR_QM_rGqALhqkJ3AWYqv"
+  },
+  {
+    "q": "Q10",
+    "venue": "Clómada",
+    "provider": "gemini",
+    "conf": "hedged",
+    "answer": "No specific parking information was found for the restaurant. As it is located in the pedestrianized historic center of Málaga, private on-site parking is unavailable, so diners must use nearby public",
+    "source": ""
+  },
+  {
+    "q": "Q1",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "No outdoor seating has been mentioned in any review or listing for Clómada. Multiple sources describe it as an indoor-only space, and one source notes the indoor dining area is decorated with travel-i",
+    "source": "https://macarfi.com/en/mal/restaurant-card/clomada"
+  },
+  {
+    "q": "Q2",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Yes. Clómada offers a tasting menu of 9 courses (9 pases). The restaurant's own website lists it at €98 per person with an optional wine pairing at €70 per person; TheFork UK lists it at €85 per perso",
+    "source": "https://www.clomadarestaurante.com/info"
+  },
+  {
+    "q": "Q3",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The Michelin Guide specifically highlights the fish ceviche and crispy sea bass as standout dishes. Reviews and the restaurant's own management also single out the Ajo Blanco, foie gras special, and '",
+    "source": "https://guide.michelin.com/mt/en/andalucia/malaga/restaurant/clomada"
+  },
+  {
+    "q": "Q4",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "TheFork lists Clómada among restaurants offering vegetarian dishes. The menu is described as heavily seafood-focused; at least one reviewer noted this was challenging for non-seafood eaters. No explic",
+    "source": "https://www.thefork.com/restaurants/malaga-c330651/vegetarian-dishes-t470"
+  },
+  {
+    "q": "Q5",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "unknown",
+    "answer": "No information about high chairs or a children's menu has been found. The venue is described as a fine-dining, intimate space with around 8 tables and a romantic atmosphere, which suggests it may not ",
+    "source": ""
+  },
+  {
+    "q": "Q6",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Reservations are strongly recommended. One reviewer noted it is a small restaurant with around 8 tables and that they were 'lucky enough to get a table' as walk-ins. Bookings can be made via TheFork. ",
+    "source": "https://www.tripadvisor.com/Restaurant_Review-g187438-d33004796-Reviews-Clomada_Restaurante_Malaga_Centro-Malaga_Costa_del_Sol_Province_of_Malaga_Andalu.html"
+  },
+  {
+    "q": "Q7",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "TheFork lists the average spend per person at around €55 (excluding drinks, based on starter + main or main + dessert). The tasting menu is €98 per person (plus €70 optional wine pairing). One reviewe",
+    "source": "https://www.thefork.es/restaurante/clomada-restaurante-malaga-centro-r845892/menu"
+  },
+  {
+    "q": "Q8",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "unknown",
+    "answer": "No specific information about step-free access, wheelchair accessibility or an accessible toilet at Clómada has been found. The restaurant is located on Calle Méndez Núñez in Málaga Centro, a largely ",
+    "source": ""
+  },
+  {
+    "q": "Q9",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Reviewers consistently describe a calm, quiet and intimate atmosphere, with one reviewer specifically praising the 'very calm and nice atmosphere.' The décor is elegant and modern, designed to create ",
+    "source": "https://www.thefork.com/restaurant/clomada-restaurante-malaga-centro-r845892/reviews"
+  },
+  {
+    "q": "Q10",
+    "venue": "Clómada",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "There is no dedicated on-site parking. The restaurant is located on Calle Méndez Núñez 12 in Málaga Centro, a central pedestrianised area. Málaga's historic centre has several paid underground car par",
+    "source": "https://www.clomadarestaurante.com/info"
+  },
+  {
+    "q": "Q1",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Yes — the restaurant lists a terrace/outer seating for the Centro (Av. de la Aurora) location and other external pages refer to a terrace; the site also recommends nearby parking for customers. The we",
+    "source": "https://tascalaska.es/ (Tasca láska official site) / https://www.privateaser.es/local/61930-tasca-laska"
+  },
+  {
+    "q": "Q2",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "No explicit tasting menu or fixed set lunch is published on the restaurant website or their online menu; the published a‑la‑carte menu shows individual tapas, raciones and paellas (prices per dish and",
+    "source": "https://tascalaska.es/es/cartas/ / https://tascalaska.es/QR/Avenida/web.php"
+  },
+  {
+    "q": "Q3",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Dishes highlighted on the venue’s menu and in descriptions/reviews include their paellas/arroces (seafood and mixed paella), “Calamar Tasca láska”, and popular tapas such as gambas al pil‑pil and tart",
+    "source": "https://tascalaska.es/es/cartas/ (menu) / site homepage reviews https://tascalaska.es/"
+  },
+  {
+    "q": "Q4",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The restaurant’s online menu lists vegetable/vegetarian dishes (e.g., arroz de verdura, gyozas vegetarianas) and TheFork entry identifies that the venue ‘includes options without gluten’ ; the site as",
+    "source": "https://tascalaska.es/es/cartas/ (menu) / TheFork listing for Tasca Láska Bistrobar"
+  },
+  {
+    "q": "Q5",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "No explicit children policy was found; online reviews mention family visits and the menu contains child‑friendly items (mini burger, paella), but there is no clear statement about high chairs or a ded",
+    "source": "https://tascalaska.es/es/cartas/ (menu) / guest reviews on site https://tascalaska.es/"
+  },
+  {
+    "q": "Q6",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Reservations are offered and contact details / an online reservation page are provided on the official site; the site also shows recent reviews saying ‘we returned’ and recommends booking for groups. ",
+    "source": "https://tascalaska.es/reserva/ (reservation page) / https://tascalaska.es/ (homepage) / guest reviews"
+  },
+  {
+    "q": "Q7",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The a‑la‑carte menu lists dish prices (examples: paellas per person €13–19, starters ~€10–15, mains €12–19); a typical dinner ordering a tapas + paella or main would roughly be in the ~€20–€35 per per",
+    "source": "https://tascalaska.es/es/cartas/ (menu with prices)"
+  },
+  {
+    "q": "Q8",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "No explicit accessibility statement was found on the website about a step‑free entrance or an accessible toilet for the Centro (Av. de la Aurora) location — I could not confirm level access or accessi",
+    "source": "https://tascalaska.es/ (official site) "
+  },
+  {
+    "q": "Q9",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The site describes an ‘intimate’/‘oasis of peace’ atmosphere and online guest reviews describe a pleasant, friendly, busy bistro vibe; reviews mention both locals and tourists. Noise level is not form",
+    "source": "https://tascalaska.es/ (homepage & reviews) / local writeups (Gurmé Málaga) https://cld.bz/users/abcsevilla/GURME-MALAGA-8-VERANO-24/50/"
+  },
+  {
+    "q": "Q10",
+    "venue": "Tasca láska",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "The official site recommends nearby car parks and names 'Parking Salitre' for the Centro location (and 'Parking Cervantes' for Malagueta) — there is no proprietary private parking; nearby public/paid ",
+    "source": "https://tascalaska.es/ (parking recommendations on official site)"
+  },
+  {
+    "q": "Q1",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, Tasca láska Bistrobar (Centro) has outdoor terrace seating with a capacity of 18 seats. However, there is no official information specifying whether this terrace is covered or heated.",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q2",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The venue does not offer a regular tasting menu. While they serve a daily set lunch ('menú del día'), specific details regarding the exact number of courses and the price per person are not specified ",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q3",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Its signature dishes include their authentic Spanish paellas (such as Iberian paella with chorizo), oxtail croquettes (croquetas de rabo de toro), and their famous Pavlova cake for dessert.",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q4",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, they offer vegetarian options (such as vegetable paella and gyozas), vegan options, and all of their paellas are explicitly 100% gluten-free. While the staff is trained on allergen protocols, the",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q5",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, the venue is family-friendly and provides high chairs ('tronas') and a baby changing table ('cambiador para bebés'). However, there is no dedicated kids' menu.",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q6",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "hedged",
+    "answer": "Reservations are highly recommended as the venue is very popular and cozy, though walk-ins are accepted if space is available. Bookings can typically be made several weeks or a month in advance via on",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q7",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Dinner costs roughly between €20 and €30 per person, with the average price of a meal estimated at around €25 per person, excluding drinks.",
+    "source": "https://www.thefork.es/restaurante/tasca-laska-bistrobar-r723533"
+  },
+  {
+    "q": "Q8",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "hedged",
+    "answer": "The official website does not list wheelchair accessibility or an accessible toilet for the Centro (Bistrobar) location, though it does for their Malagueta location. Third-party sources provide confli",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q9",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The atmosphere is cozy, trendy, and relaxing with ambient music and a moderate noise level. It is highly rated as a favorite for both local Malaga residents and international tourists.",
+    "source": "https://www.thefork.es/restaurante/tasca-laska-bistrobar-r723533"
+  },
+  {
+    "q": "Q10",
+    "venue": "Tasca láska",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, there is public parking nearby. The restaurant officially recommends utilizing 'Parking Salitre,' which is a public parking garage situated approximately 150 meters away from the Centro location.",
+    "source": "https://www.tascalaska.es/"
+  },
+  {
+    "q": "Q1",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "Yes. The restaurant's own website confirms a terrace with 18 seats ('Terazza 18 personas / asientos'). Reviewers mention being able to sit outside. No source specifies whether it is covered or heated.",
+    "source": "https://tascalaska.es/es/tasca-laska-bistrobar/"
+  },
+  {
+    "q": "Q2",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "TheFork lists a 'Preset menu' category (1 option) alongside the à la carte menu, but no specific course count or per-person price for a set menu was published in any source found. The average à la car",
+    "source": "https://www.thefork.com/restaurant/tasca-laska-bistrobar-r802105/menu"
+  },
+  {
+    "q": "Q3",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The standout dishes consistently mentioned are the paellas (seafood, mixed, and chicken varieties) and creative tapas. Specific star tapas cited on the official site and by reviewers include the red-t",
+    "source": "https://turispain.es/item/tasca-laska/"
+  },
+  {
+    "q": "Q4",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "Yes — TripAdvisor and TheFork both confirm vegetarian and gluten-free options are available. Vegan diners have also reported finding suitable dishes (e.g. salmorejo). No source specifically mentions a",
+    "source": "https://www.thefork.com/restaurant/tasca-laska-bistrobar-r802105/menu"
+  },
+  {
+    "q": "Q5",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "The restaurant is family-friendly: one reviewer noted staff gave their 6-year-old a colouring book and crayons while waiting for paella. No dedicated children's menu or high chairs are mentioned in an",
+    "source": "https://www.thefork.com/restaurant/tasca-laska-bistrobar-r802105"
+  },
+  {
+    "q": "Q6",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Reservations are strongly recommended — reviewers report walk-in guests being turned away, especially at busy times and weekends. The restaurant itself advises booking in advance via WhatsApp or the w",
+    "source": "https://restaurantguru.com/Tasca-laska-Malaga"
+  },
+  {
+    "q": "Q7",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Dinner typically costs around €20–30 per person based on reviewer reports, with TheFork quoting an average of approximately €25 per person for food (excluding drinks). Booking via TheFork can currentl",
+    "source": "https://www.thefork.com/restaurant/tasca-laska-bistrobar-r802105/menu"
+  },
+  {
+    "q": "Q8",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "The Malagueta location's official page explicitly lists adapted facilities and an accessible toilet ('♿️ Instalaciones adaptadas y baño accesible'). TheFork also lists 'Wheelchair Accessible' as a fea",
+    "source": "https://tascalaska.es/es/tasca-laska-malagueta/"
+  },
+  {
+    "q": "Q9",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The atmosphere is described as cozy, charming, and inviting with tasteful tropical/greenery décor and calm background music. The restaurant is not too noisy even when busy. It attracts a mix of touris",
+    "source": "https://restaurantguru.com/Tasca-laska-Malaga"
+  },
+  {
+    "q": "Q10",
+    "venue": "Tasca láska",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The restaurant's own website recommends Parking Salitre for the Centro (Bistrobar) location, approximately 150–200 metres away, described as offering moderate rates. There is no on-site parking.",
+    "source": "https://tascalaska.es/es/tasca-laska-bistrobar/"
+  },
+  {
+    "q": "Q1",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Yes — it is a beachfront chiringuito on the Paseo Marítimo with outdoor terrace/sea-front seating. Recent reporting about promenade works notes the chiringuito has a terrace set up on the promenade; s",
+    "source": "https://chiringuitoelmerlo.com/contacto/"
+  },
+  {
+    "q": "Q2",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "No tasting menu or set-price lunch menu is shown for this venue — the available online menus and listings present à la carte dishes (espetos, pescaito frito, raciones) rather than a multi‑course tasti",
+    "source": "https://carta.menu/restaurants/malaga-1/restaurante-merlo"
+  },
+  {
+    "q": "Q3",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "The signature items to order are the espetos de sardinas (charcoal-grilled sardine skewers) and fresh pescaito frito; reviewers also frequently recommend grilled fish/seafood (for example pulpo and ot",
+    "source": "https://chiringuitoelmerlo.com/contacto/"
+  },
+  {
+    "q": "Q4",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Vegetarian/vegan options appear limited (most of the menu is seafood-focused); at least one local listing explicitly states they do not offer gluten-free products. I could not find a published allerge",
+    "source": "https://mappesp.com/merlo-la-revuelo-i272218.html"
+  },
+  {
+    "q": "Q5",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The venue is described in guides and reviews as family-friendly and a local chiringuito (suitable for children), but I could not find explicit confirmation of availability of high chairs or a dedicate",
+    "source": "https://planomato.com/es/malaga/n/chiringuito-el-merlo"
+  },
+  {
+    "q": "Q6",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The restaurant publishes contact details and a phone contact for reservations — reservations are possible and commonly used, though walk-ins are also mentioned in reviews; no clear public calendar sta",
+    "source": "https://chiringuitoelmerlo.com/contacto/"
+  },
+  {
+    "q": "Q7",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Many listings and reviewers indicate low-to-moderate prices (espetos often advertised around €2 each); typical dinner spending is commonly reported in the roughly €10–€25 per person range depending on",
+    "source": "https://planomato.com/es/malaga/n/chiringuito-el-merlo"
+  },
+  {
+    "q": "Q8",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "There is step-free access along the Paseo Marítimo at the location (the city’s accessible beach point is located at the promenade at the height of ‘Merlo’), so access from the promenade is level; I co",
+    "source": "https://malaga.eu/export/sites/malagaeu/la-ciudad/playas/.galleries/Documentos-Playas/Revista-Disfruta-la-Playa-2025.pdf"
+  },
+  {
+    "q": "Q9",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "The atmosphere is described as lively, informal and a local favourite — a busy, family-friendly beachfront chiringuito with a noisy/energetic seaside vibe rather than a quiet fine-dining setting; revi",
+    "source": "https://planomato.com/es/malaga/n/chiringuito-el-merlo"
+  },
+  {
+    "q": "Q10",
+    "venue": "Chiringuito El Merlo",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Parking in Pedregalejo is limited in high season; guides recommend nearby public/regulation (ORA) street parking or the Parking 'Las Acacias' a short walk away — some listings note parking can be diff",
+    "source": "https://planomato.com/es/malaga/n/chiringuito-el-merlo"
+  },
+  {
+    "q": "Q1",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, it has a spacious covered outdoor terrace directly on the beachfront promenade. There is no mention in any source of the terrace being heated.",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q2",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "No tasting menu or standard set lunch (menú del día) is offered for individual diners, as the menu is strictly a la carte. Custom set menus can only be prepared in advance for large groups or corporat",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q3",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Its primary signature dishes are the traditional sardine espetos (grilled skewers on olive wood), whole fried octopus (pulpo frito entero), and various Malaga-style fried fish (pescaíto frito).",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q4",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Vegetarian and vegan options are extremely limited on the heavily seafood-centric menu, and gluten-free choices are limited with no guarantee of preventing cross-contamination. No formal allergen menu",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q5",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, the chiringuito is very family-friendly, offering high chairs for toddlers and a dedicated children's menu (menú infantil).",
+    "source": "https://restaurantguru.com/Chiringuito-El-Merlo-Espetos-y-Pescado-en-Pedregalejo-Grupo-La-Revuelo-Malaga"
+  },
+  {
+    "q": "Q6",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Both reservations and walk-ins are accepted, though booking ahead is highly recommended due to long queues during peak times. The exact lead time is not specified, but they are strict with reservation",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q7",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Dinner is very cheap, typically costing between €10 and €20 per person, with their famous sardine espetos priced at just €2.",
+    "source": "https://restaurantguru.com/Chiringuito-El-Merlo-Espetos-y-Pescado-en-Pedregalejo-Grupo-La-Revuelo-Malaga"
+  },
+  {
+    "q": "Q8",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, the venue features wheelchair-accessible entrances, adapted seating, and a wheelchair-accessible adapted restroom.",
+    "source": "https://restaurantguru.com/Chiringuito-El-Merlo-Espetos-y-Pescado-en-Pedregalejo-Grupo-La-Revuelo-Malaga"
+  },
+  {
+    "q": "Q9",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The atmosphere is casual, relaxed, and traditional, though it can get very loud and lively during busy peak hours. It is widely celebrated as a bastion and favorite among local Malaga residents, while",
+    "source": "https://www.elespanol.com/malaga/vivir/gastronomia/20240831/chiringuito-malaga-lleva-anos-manteniendo-precio-espetos-euros/882172482_0.html"
+  },
+  {
+    "q": "Q10",
+    "venue": "Chiringuito El Merlo",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "While direct beachside parking is very difficult, visitors can park at the private 'Parking Las Acacias' garage located a 2-minute walk away. Free street parking is possible nearby, though spaces are ",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q1",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Yes. The venue has a large covered terrace on the seafront promenade as well as additional open-air seating on the paseo marítimo, with direct Mediterranean views. No specific mention of heating has b",
+    "source": "https://www.toppingsandsalads.es/chiringuito/chiringuito-el-merlo-espetos-y-pescado-en-pedregalejo-grupo-la-revuelo/"
+  },
+  {
+    "q": "Q2",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "No tasting menu or set lunch (menú del día) has been found for the standard à-la-carte service. The venue does offer bespoke group/corporate set menus on request, but no fixed public set-lunch price o",
+    "source": "https://chiringuitoelmerlo.com/comidas-de-empresa-en-malaga/"
+  },
+  {
+    "q": "Q3",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The three standout dishes are: (1) Espetos de sardinas — sardines skewered on canes and grilled over olive-wood embers at just €2 per portion; (2) Pescaito frito — Málaga-style battered and fried fish",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q4",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "The menu is almost entirely seafood-focused, so dedicated vegetarian or vegan dishes are very limited (salads are mentioned). The venue's own website advises guests to notify any allergy, intolerance ",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q5",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "The venue is described as ideal for a family and informal atmosphere, and is explicitly pet-friendly. No source mentions high chairs or a dedicated children's menu specifically for El Merlo.",
+    "source": "https://www.planomato.com/es/malaga/n/chiringuito-el-merlo"
+  },
+  {
+    "q": "Q6",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Reservations are accepted by phone (623 163 316) and online via the venue's website. Tables are held for only 15 minutes from the booked time. On busy days the kitchen reportedly stops taking reservat",
+    "source": "https://chiringuitoelmerlo.com/"
+  },
+  {
+    "q": "Q7",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "Very affordable. Espetos cost €2 per portion; other fish and seafood raciones range roughly €7–€19. A real-world group bill of four people including drinks came to ~€14.50 per person. An overall figur",
+    "source": "https://www.tripadvisor.co/ShowUserReviews-g187438-d1999346-r252366408-Restaurante_Merlo-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q8",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "carta.menu and wanderlog list the venue as wheelchair-accessible with outdoor seating, and the Paseo Marítimo El Pedregal immediately outside is a flat, paved promenade. The city's accessible-beach gu",
+    "source": "https://carta.menu/restaurants/malaga-1/restaurante-merlo"
+  },
+  {
+    "q": "Q9",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Lively and noisy — the venue is large, high-turnover and frequently packed. Atmosphere is casual beach-bar with no tablecloths or fine-dining pretensions. One source reports ~90% of clientele are loca",
+    "source": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20250729/chiringuito-malaga-larguisimas-colas-espetos-euros/1003743865369_0.html"
+  },
+  {
+    "q": "Q10",
+    "venue": "Chiringuito El Merlo",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "No on-site parking. The venue's own website and planomato both recommend Parking Las Acacias, a private paid car park about a 2-minute walk away. On-street parking in the narrow streets of Pedregalejo",
+    "source": "https://chiringuitoelmerlo.com/comidas-de-empresa-en-malaga/"
+  },
+  {
+    "q": "Q1",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "No explicit information about outdoor seating (terrace/patio) for the Centro location is found on the restaurant website or its main listings; photos and the site show an indoor, small tapería but do ",
+    "source": "https://www.laveganataperia.es/; https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q2",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "I could not find a published tasting menu or a fixed set lunch on the venue’s website or menu PDF for the Centro restaurant; promotional/event listings show the venue sometimes participating in multi-",
+    "source": "https://www.laveganataperia.es/; https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/111777288/la-vegana-taperia-malaga-carta.pdf; https://veggievueltamalaga.es/iv-veggie-vuelta-malaga/"
+  },
+  {
+    "q": "Q3",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Menu and reviews consistently highlight classic tapas in vegan versions — examples to order reported in sources include croquetas (croquetas con alioli), albóndigas (vegan meatballs), patatas bravas a",
+    "source": "https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/111777288/la-vegana-taperia-malaga-carta.pdf; https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html; https://www.theolivepress.es/spain-news/2025/03/22/the-ultimate-guide-to-eating-vegan-in-malaga-spain/"
+  },
+  {
+    "q": "Q4",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The venue is a 100% vegan tapería (so vegan and vegetarian options are the default). I did not find a published gluten‑free/allergen menu or an explicit allergen checklist on the website or menu PDF.",
+    "source": "https://www.laveganataperia.es/; https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html; https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/111777288/la-vegana-taperia-malaga-carta.pdf"
+  },
+  {
+    "q": "Q5",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "There is no clear information on a kids’ menu or availability of high chairs; listings and the restaurant website describe a small, cozy tapería but do not state child-specific facilities.",
+    "source": "https://www.laveganataperia.es/; https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q6",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "The restaurant accepts reservations (there is an online reservation form on their website) and TripAdvisor lists ‘Reservas’ — walk-ins may be possible but reservations are offered; the website does no",
+    "source": "https://www.laveganataperia.es/ (reservation form); https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q7",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Public listings classify La Vegana in the mid-price band (displayed as €€ - €€€ on TripAdvisor). I could not find a complete, reliably parsed price list in the venue’s PDF/menu extract online to give ",
+    "source": "https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html; https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/111777288/la-vegana-taperia-malaga-carta.pdf"
+  },
+  {
+    "q": "Q8",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "TripAdvisor lists ‘Acceso para discapacitados’ for this venue (accessible entrance), but I could not find specific information about a step-free entrance measurement or the presence of an accessible t",
+    "source": "https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html; https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q9",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Reviews and listings describe a small, cosy, busy tapería with many local positive reviews — the tone suggests a friendly, informal tapas atmosphere popular with locals and visitors; noise level is no",
+    "source": "https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html; https://www.laveganataperia.es/; https://www.theolivepress.es/spain-news/2025/03/22/the-ultimate-guide-to-eating-vegan-in-malaga-spain/"
+  },
+  {
+    "q": "Q10",
+    "venue": "La Vegana",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "I could not find information on on‑site parking or dedicated parking options for the restaurant; the venue address is Calle San Juan de Letrán 13 (Plaza de la Merced area) but parking details were not",
+    "source": "https://www.laveganataperia.es/; https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/111777288/la-vegana-taperia-malaga-carta.pdf; https://www.tripadvisor.es/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q1",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "La Vegana has outdoor seating on a small street terrace [3.1.5]. However, there is no information available in the sources to confirm whether this outdoor area is covered or heated.",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q2",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "La Vegana does not offer a tasting menu. While some sources historically mention a daily set lunch ('menú del día') costing around €9, details on the exact number of courses are not specified.",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q3",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Its signature dishes are fully veganized versions of traditional Spanish tapas, most notably the vegan 'shrimps' in garlic oil (gambas al pil-pil), the garlic vegan 'cuttlefish' (sepia al ajillo), and",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q4",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Yes, it is a 100% vegan (and thus vegetarian) restaurant. It offers clear gluten-free options, and its digital menu (accessible via QR code) includes a dedicated allergen filter.",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q5",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The venue is family-friendly and overlooks a nearby playground, but it does not offer a dedicated kids' menu, and there is no mention in available sources of high chairs being available.",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q6",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Walk-ins are accepted, but because the venue is small and popular, booking a table is highly recommended, especially for dinner. It is not specified in the sources how far in advance tables book out, ",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q7",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "Dinner typically costs between €10 and €20 per person, though it can range up to €30 depending on how many tapas plates and drinks are ordered to share.",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q8",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "La Vegana is listed as wheelchair accessible. However, specific details on whether the entrance is completely step-free or if there is an accessible toilet are not mentioned in available sources.",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q9",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "The restaurant has a cozy, welcoming, and lively atmosphere with background music. It is a well-known local favorite among residents of Malaga, though its central location near Plaza de la Merced also",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q10",
+    "venue": "La Vegana",
+    "provider": "gemini",
+    "conf": "confident",
+    "answer": "There is no parking at the venue itself as it is located in a pedestrianized area of the historic center. However, paid public parking garages are available nearby, such as those around Plaza de la Me",
+    "source": "https://www.laveganataperia.es/"
+  },
+  {
+    "q": "Q1",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Yes, outdoor seating is confirmed. Reviewers describe two outside tables on the pavement. No source specifically states whether the terrace is covered or heated.",
+    "source": "https://www.facebook.com/taperialavegana/ ; https://www.happycow.net/reviews/la-vegana-taperia-malaga-200744/734859"
+  },
+  {
+    "q": "Q2",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "A menú del día (set lunch) is mentioned by at least one reviewer. No details on number of courses or price were found in any source.",
+    "source": "https://www.happycow.net/reviews/la-vegana-taperia-malaga-200744/734859"
+  },
+  {
+    "q": "Q3",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Frequently praised dishes include the pil-pil vegan prawns, garlic vegan cuttlefish/calamari, the Pintxo Burguer (mini vegan burger with plant-based cheese and 'bacon'), and Vegan Cheese Chips (fries ",
+    "source": "https://www.theveganreview.com/the-ultimate-guide-to-vegan-food-in-malaga/ ; https://solaga.co.uk/a-vegan-foodies-guide-to-malaga-where-plant-based-dreams-come-true/"
+  },
+  {
+    "q": "Q4",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The entire menu is 100% vegan; there is no separate vegetarian-only menu needed. A separate gluten-free menu exists, though food is prepared in the same kitchen so traces may be present. No dedicated ",
+    "source": "https://www.tripadvisor.com/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q5",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The venue is not well-suited for young children: seating is high tables and bar stools only. A child seat exists but was found to be too low for the tables, and staff did not proactively offer it. No ",
+    "source": "https://www.happycow.net/reviews/la-vegana-taperia-malaga-200744/734859"
+  },
+  {
+    "q": "Q6",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Reservations are strongly recommended as the venue is small and popular; walk-ins may find a table at off-peak hours. One reviewer had the same table reserved by staff for an entire vacation stay, sug",
+    "source": "https://www.tripadvisor.com/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html ; https://www.happycow.net/reviews/la-vegana-taperia-malaga-200744/734859"
+  },
+  {
+    "q": "Q7",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "Dinner costs roughly €10–20 per person. One reviewer reported a dinner for two with drinks (5 tapas + 2 drinks) came to under €40. Individual tapas are priced around €4–4.50 each.",
+    "source": "https://restaurantguru.com/La-Vegana-Malaga ; https://wanderlog.com/list/geoCategory/93905/best-vegetarian-restaurants-in-malaga ; https://www.tripadvisor.com/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q8",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "No source confirms step-free entrance or a wheelchair-accessible toilet. Multiple reviewers note the seating is high bar stools 'not suitable for people with physical difficulties,' suggesting limited",
+    "source": "https://www.happycow.net/reviews/la-vegana-taperia-malaga-200744"
+  },
+  {
+    "q": "Q9",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The atmosphere is described as casual, cosy, fun and buzzy, with friendly staff. It is a local favourite (described as 'the most famous and well-known vegan restaurant in Málaga') but also popular wit",
+    "source": "https://solaga.co.uk/a-vegan-foodies-guide-to-malaga-where-plant-based-dreams-come-true/ ; https://www.tripadvisor.com/Restaurant_Review-g187438-d20949353-Reviews-La_Vegana_Taperia-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html ; https://www.yellowcar.com/en/on-the-road-to-the-best-vegan-restaurants-in-malaga/"
+  },
+  {
+    "q": "Q10",
+    "venue": "La Vegana",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "No on-site parking. One source states parking options exist approximately 207 metres from the venue, but does not specify whether this is a public car park, street parking, or paid garage.",
+    "source": "https://menuweb.menu/restaurants/malaga-1/la-vegana-taperia"
+  },
+  {
+    "q": "Q1",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "No definitive statement on the restaurant website about an outdoor terrace; a business listing (ConMenu) lists a 'Terraza' but the official site and menu pages do not describe outdoor seating or cover",
+    "source": "https://conmenu.com/establishment/3454-la-guernica-asador https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q2",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "The restaurant website/menu does not advertise a tasting menu or set lunch; the online carta shows à la carte starters, grills and mains (no degustación or fixed-price lunch menu listed).",
+    "source": "https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q3",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Items highlighted on the venue menu and in listings include Steak Tartar “La Guernica”, their prime grilled cuts (Lomo Bajo / Lomo Alto / Solomillo) and large cuts like the Tomahawk / T‑Bone shown on ",
+    "source": "https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q4",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The posted menu shows salads, a 'Parrillada de Verduras' and vegetable ravioli (vegetarian options present); the site does not state vegan or gluten‑free sections nor an allergen menu on its public pa",
+    "source": "https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q5",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "Yes — the official menu includes a 'Menú Infantil' (Macarrones con salsa de tomate; Filetito de pollo con patatas, each priced €12), indicating they cater to children; no explicit mention of high chai",
+    "source": "https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q6",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "confident",
+    "answer": "The venue offers online reservation functionality (site shows 'Reservar' and a reservations page/WhatsApp contact); third‑party listings advise making a reservation because it can get busy — walk‑ins ",
+    "source": "https://laguernicasoho.com/es/ https://wanderlog.com/place/details/7734809/laguernica-asador-m%C3%A1laga"
+  },
+  {
+    "q": "Q7",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "The à la carte prices on the restaurant menu (starters ~€8–€25; steaks ~€24–€75 depending on cut/weight; mains ~€15–€39) imply a typical dinner per person in the restaurant will commonly fall in the ~",
+    "source": "https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q8",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "I could not find any explicit information on step‑free entrance or accessible toilets for this venue on the official site or public listings.",
+    "source": "https://laguernicasoho.com/carta-laguernica-asador-malaga/ https://laguernicasoho.com/es/"
+  },
+  {
+    "q": "Q9",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "hedged",
+    "answer": "Guest reviews and listings describe a warm, lively atmosphere with attentive service and note the place can be busy — it reads as a popular local spot rather than purely a tourist trap, though no form",
+    "source": "https://wanderlog.com/place/details/7734809/laguernica-asador-m%C3%A1laga https://muylatinos.com/negocio/laguernica-asador-malaga-malaga/"
+  },
+  {
+    "q": "Q10",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "chatgpt",
+    "conf": "unknown",
+    "answer": "No on‑site parking information is published on the restaurant website; I could not find a statement about private parking — the venue is in central Soho (Casas de Campos 20), where public street parki",
+    "source": "https://laguernicasoho.com/es/ https://laguernicasoho.com/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q1",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "Yes, the venue has a terrace for sunny days in addition to its air-conditioned indoor rooms. No specific information was found confirming whether the terrace is covered or heated.",
+    "source": "https://www.privateaser.es/local/61978-laguernica-asador-malaga"
+  },
+  {
+    "q": "Q2",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "unknown",
+    "answer": "No tasting menu or set lunch has been found on the official website or in any review source. The restaurant appears to operate exclusively à la carte.",
+    "source": "https://laguernicasoho.com/en/carta-laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q3",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "confident",
+    "answer": "The most consistently praised dishes across sources are: (1) the Argentine-cut steaks (lomo bajo, lomo alto, entraña, tomahawk) cooked on the asador grill; (2) the Steak Tartar La Guernica, cited as a",
+    "source": "https://mindtrip.ai/restaurant/malaga-andalucia/laguernica-asador-malaga/re-2rITpEYn"
+  },
+  {
+    "q": "Q4",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "One review aggregator notes the restaurant offers appetizers and side dishes suitable for vegetarians, and the menu includes salads (Caprese, Caesar, Thai beef salad, goat cheese salad). No explicit v",
+    "source": "https://laguernica-asador-m-laga.wheree.com/"
+  },
+  {
+    "q": "Q5",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "unknown",
+    "answer": "No specific information about a children's menu or high chairs was found for this venue. The restaurant is described as suitable for family gatherings and special occasions, but no child-specific faci",
+    "source": "https://laguernica-asador-m-laga.wheree.com/"
+  },
+  {
+    "q": "Q6",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "Walk-ins are accepted subject to table availability, but reservations are recommended; one source advises booking at least 24 hours ahead for groups of 6 or more. Reservations can be made by phone (+3",
+    "source": "https://kitking.es/reservar/laguernica-asador-malaga/"
+  },
+  {
+    "q": "Q7",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "No specific per-person price was published in any source. Reviews describe the venue as a premium steakhouse and some note the price as high, while the restaurant's own description positions it as a t",
+    "source": "https://www.tripadvisor.com/Restaurant_Review-g187438-d26250085-Reviews-LaGuernica_Asador_Malaga-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html"
+  },
+  {
+    "q": "Q8",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "unknown",
+    "answer": "No specific information about step-free entrance, wheelchair accessibility, or an accessible toilet was found for this venue in any source.",
+    "source": ""
+  },
+  {
+    "q": "Q9",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "hedged",
+    "answer": "The atmosphere is described as elegant, modern and sophisticated, with occasional live piano music in the evenings. The venue draws a mix of locals and tourists. The noise level is reported as comfort",
+    "source": "https://www.privateaser.es/local/61978-laguernica-asador-malaga"
+  },
+  {
+    "q": "Q10",
+    "venue": "LaGuernica Asador Málaga",
+    "provider": "claude",
+    "conf": "unknown",
+    "answer": "No on-site parking exists at this venue (it is a street-level restaurant in the Soho/Centro pedestrian district). No source mentions a dedicated or nearby car park specifically for this restaurant. Th",
+    "source": ""
+  }
+]
